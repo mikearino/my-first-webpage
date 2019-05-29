@@ -1,6 +1,6 @@
 # My First Webpage
 
-####A website practicing my first webpage, 5/29/19
+#### A website practicing my first webpage, 5/29/19
 
 #### By Mike Lofgren, Everett Lee-Wuollet, Marina Poltorak
 
